@@ -20,3 +20,4 @@ fediverse: "@username@instance.url"
 This is **bold** text, and this is *emphasized* text.
 
 Visit the [Hugo](https://gohugo.io) website!
+Hugo is pretty cool for simple blog. I like golang as my new tools to develop backends API.
