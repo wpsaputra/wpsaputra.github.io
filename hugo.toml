@@ -22,7 +22,8 @@ hideHeader = false
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
 I am an Indonesian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+I am interested in a range of topics, including algorithms, distributed systems, AI, and traveling. 
+This is just my personal journal about things I find interesting.
 """
 
 # Collection to display on home
