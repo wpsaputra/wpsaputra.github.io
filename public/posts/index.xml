@@ -6,14 +6,35 @@
     <description>Recent content in Posts on Testbox</description>
     <generator>Hugo</generator>
     <language>id-ID</language>
-    <lastBuildDate>Mon, 17 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 08:12:49 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Review Gamesir Nova Lite 2 Di Cachyos Linux</title>
+      <link>http://localhost:1313/posts/review-gamesir-nova-lite-2-di-cachyos-linux/</link>
+      <pubDate>Mon, 24 Nov 2025 08:12:49 +0800</pubDate>
+      <guid>http://localhost:1313/posts/review-gamesir-nova-lite-2-di-cachyos-linux/</guid>
+      <description>Review kompatibilitas Gamesir Nova Lite 2 di Linux</description>
+    </item>
+    <item>
+      <title>Yes the World is Wrong</title>
+      <link>http://localhost:1313/posts/yes-the-world-is-wrong/</link>
+      <pubDate>Sat, 22 Nov 2025 05:26:32 +0800</pubDate>
+      <guid>http://localhost:1313/posts/yes-the-world-is-wrong/</guid>
+      <description>Sebuah diskusi dengan diri sendiri.</description>
+    </item>
     <item>
       <title>Hugo test site</title>
       <link>http://localhost:1313/posts/my-second-post/</link>
       <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/my-second-post/</guid>
       <description>Hugo test site.</description>
+    </item>
+    <item>
+      <title>Log-Structured Merge Tree</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>An LSM Tree overview and Java implementation.</description>
     </item>
   </channel>
 </rss>
