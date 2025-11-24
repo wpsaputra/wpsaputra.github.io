@@ -1,6 +1,6 @@
 +++
 date = '2025-11-24T08:12:49+08:00'
-draft = true
+draft = false
 title = 'Review Gamesir Nova Lite 2 Di Cachyos Linux'
 summary = "Review kompatibilitas Gamesir Nova Lite 2 di Linux"
 +++
